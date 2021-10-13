@@ -34,7 +34,7 @@
         "maxColumn": 10
     },
     "daily": {
-        "cooldownTime": 0,
+        "cooldownTime": 60000,
         "rewardCoin": 100000
     },
     "help": {
